@@ -1,5 +1,4 @@
-# leetcode
-Solutions of leetcode
+# Leetcode
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
