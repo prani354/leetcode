@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prani354/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/prani354/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prani354/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prani354/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/prani354/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/prani354/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prani354/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prani354/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prani354/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prani354/leetcode/tree/master/0239-sliding-window-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prani354/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
