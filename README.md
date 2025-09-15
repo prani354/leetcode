@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prani354/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prani354/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/prani354/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0739-daily-temperatures](https://github.com/prani354/leetcode/tree/master/0739-daily-temperatures) |
 | [1006-vowel-spellchecker](https://github.com/prani354/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1036-rotting-oranges](https://github.com/prani354/leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/prani354/leetcode/tree/master/1117-as-far-from-land-as-possible) |
@@ -145,10 +146,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prani354/leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/prani354/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prani354/leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/prani354/leetcode/tree/master/0739-daily-temperatures) |
 ## Breadth-First Search
 |  |
 | ------- |
