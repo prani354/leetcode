@@ -14,7 +14,7 @@ class Solution:
                 elif nums[i] > nums[j] and dp[i] == 1 + dp[j]:
                     count[i] += count[j]
 
-            max_value = max(max_value,dp[i])
+        max_value = max(dp)
 
         res = 0
 
