@@ -10,6 +10,7 @@
 | [0011-container-with-most-water](https://github.com/prani354/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prani354/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/prani354/leetcode/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/prani354/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/prani354/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prani354/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prani354/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -110,6 +111,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/prani354/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/prani354/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prani354/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/prani354/leetcode/tree/master/0347-top-k-frequent-elements) |
