@@ -47,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/prani354/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1014-k-closest-points-to-origin](https://github.com/prani354/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/prani354/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/prani354/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prani354/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prani354/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0166-fraction-to-recurring-decimal](https://github.com/prani354/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/prani354/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1006-vowel-spellchecker](https://github.com/prani354/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/prani354/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -127,6 +129,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prani354/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0165-compare-version-numbers](https://github.com/prani354/leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/prani354/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/prani354/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/prani354/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/prani354/leetcode/tree/master/2429-design-a-food-rating-system) |
