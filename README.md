@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/prani354/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prani354/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prani354/leetcode/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/prani354/leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/prani354/leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prani354/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prani354/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -98,6 +99,7 @@
 | [0042-trapping-rain-water](https://github.com/prani354/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/prani354/leetcode/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/prani354/leetcode/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/prani354/leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prani354/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/prani354/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/prani354/leetcode/tree/master/0322-coin-change) |
