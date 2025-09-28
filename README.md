@@ -34,6 +34,7 @@
 | [0917-boats-to-save-people](https://github.com/prani354/leetcode/tree/master/0917-boats-to-save-people) |
 | [1006-vowel-spellchecker](https://github.com/prani354/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/prani354/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/prani354/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/prani354/leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/prani354/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/prani354/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -53,6 +54,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/prani354/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/prani354/leetcode/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/prani354/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/prani354/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/prani354/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/prani354/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/prani354/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -130,6 +132,7 @@
 | [0135-candy](https://github.com/prani354/leetcode/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/prani354/leetcode/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/prani354/leetcode/tree/master/0917-boats-to-save-people) |
+| [1018-largest-perimeter-triangle](https://github.com/prani354/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/prani354/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## String
 |  |
@@ -154,6 +157,7 @@
 | [0611-valid-triangle-number](https://github.com/prani354/leetcode/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/prani354/leetcode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/prani354/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/prani354/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/prani354/leetcode/tree/master/1184-car-pooling) |
 | [2887-sort-vowels-in-a-string](https://github.com/prani354/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Brainteaser
