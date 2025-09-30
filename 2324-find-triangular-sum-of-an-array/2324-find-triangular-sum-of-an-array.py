@@ -3,8 +3,8 @@ class Solution:
         while len(nums) != 1:
             res = []
 
-            for i in range(len(nums)-1):
-                res.append((nums[i]+nums[i+1]) %  10)
+            for i in range(1,len(nums)):
+                res.append((nums[i-1]+nums[i]) %  10)
 
             nums = res
 
