@@ -25,6 +25,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/prani354/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/prani354/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/prani354/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/prani354/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prani354/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/prani354/leetcode/tree/master/0611-valid-triangle-number) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prani354/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -221,6 +222,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/prani354/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/prani354/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/prani354/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/prani354/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/prani354/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/prani354/leetcode/tree/master/1184-car-pooling) |
 | [2023-design-movie-rental-system](https://github.com/prani354/leetcode/tree/master/2023-design-movie-rental-system) |
@@ -260,6 +262,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/prani354/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prani354/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/prani354/leetcode/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/prani354/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/prani354/leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/prani354/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/prani354/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -267,6 +270,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/prani354/leetcode/tree/master/0085-maximal-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/prani354/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/prani354/leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/prani354/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/prani354/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
