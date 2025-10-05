@@ -13,6 +13,7 @@
 | [0045-jump-game-ii](https://github.com/prani354/leetcode/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/prani354/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/prani354/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/prani354/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prani354/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prani354/leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/prani354/leetcode/tree/master/0090-subsets-ii) |
@@ -71,6 +72,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prani354/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prani354/leetcode/tree/master/0090-subsets-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/prani354/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
@@ -345,5 +347,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prani354/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prani354/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
