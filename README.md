@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/prani354/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prani354/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prani354/leetcode/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/prani354/leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/prani354/leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/prani354/leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prani354/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -70,6 +71,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/prani354/leetcode/tree/master/0090-subsets-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/prani354/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
@@ -340,4 +342,8 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/prani354/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/prani354/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
