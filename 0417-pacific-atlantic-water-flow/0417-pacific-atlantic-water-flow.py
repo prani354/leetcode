@@ -23,5 +23,6 @@ class Solution:
         for c in range(cols):   #Top and bottom edges
             dfs((0,c),p)
             dfs((rows-1,c),a)
-
-        return list(p&a)
+        print(p)
+        print(a)
+        return list(p.intersection(a))
