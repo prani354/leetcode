@@ -51,6 +51,7 @@
 | [2023-design-movie-rental-system](https://github.com/prani354/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/prani354/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/prani354/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/prani354/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/prani354/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/prani354/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/prani354/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -107,6 +108,7 @@
 | [0794-swim-in-rising-water](https://github.com/prani354/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/prani354/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1612-avoid-flood-in-the-city](https://github.com/prani354/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/prani354/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3827-implement-router](https://github.com/prani354/leetcode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
@@ -180,6 +182,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/prani354/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/prani354/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/prani354/leetcode/tree/master/1184-car-pooling) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/prani354/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/prani354/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Brainteaser
 |  |
@@ -254,6 +257,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prani354/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/prani354/leetcode/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/prani354/leetcode/tree/master/0917-boats-to-save-people) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/prani354/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Stack
 |  |
 | ------- |
