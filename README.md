@@ -55,6 +55,7 @@
 | [2429-design-a-food-rating-system](https://github.com/prani354/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/prani354/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/prani354/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prani354/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/prani354/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/prani354/leetcode/tree/master/3827-implement-router) |
 ## Math
@@ -146,6 +147,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/prani354/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/prani354/leetcode/tree/master/3336-water-bottles-ii) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/prani354/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prani354/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prani354/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1184-car-pooling](https://github.com/prani354/leetcode/tree/master/1184-car-pooling) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prani354/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
