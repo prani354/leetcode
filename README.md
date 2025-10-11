@@ -54,6 +54,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prani354/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/prani354/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/prani354/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/prani354/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/prani354/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prani354/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -93,6 +94,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/prani354/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/prani354/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/prani354/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3797-design-spreadsheet](https://github.com/prani354/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/prani354/leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/prani354/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -111,6 +113,7 @@
 | [0907-koko-eating-bananas](https://github.com/prani354/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1612-avoid-flood-in-the-city](https://github.com/prani354/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prani354/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3827-implement-router](https://github.com/prani354/leetcode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
@@ -133,6 +136,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/prani354/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/prani354/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/prani354/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Queue
 |  |
 | ------- |
@@ -187,6 +191,7 @@
 | [1184-car-pooling](https://github.com/prani354/leetcode/tree/master/1184-car-pooling) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prani354/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/prani354/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Brainteaser
 |  |
 | ------- |
@@ -221,6 +226,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prani354/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/prani354/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -263,6 +269,7 @@
 | [0611-valid-triangle-number](https://github.com/prani354/leetcode/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/prani354/leetcode/tree/master/0917-boats-to-save-people) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prani354/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Stack
 |  |
 | ------- |
