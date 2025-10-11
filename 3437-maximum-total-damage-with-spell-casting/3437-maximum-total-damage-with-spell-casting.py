@@ -1,25 +1,17 @@
 class Solution:
     def maximumTotalDamage(self, power: List[int]) -> int:
         counter = Counter(power)
+        arr = sorted(counter.keys())
+        n = len(arr)
+        dp = [0] * n
 
-        power_cnt = []
-        for p in sorted(counter.keys()):
-            power_cnt.append((p,counter[p]))
+        for i in range(n):
+            val = arr[i] * counter[arr[i]]
+            j = i - 1
 
-        cache = {}
-        def max_damage(idx):
-            if idx in cache:
-                return cache[idx]
-            if idx >= len(power_cnt):
-                return 0
+            while j >= 0 and arr[i] - arr[j] <= 2:
+                j -= 1
 
-            not_damage = max_damage(idx+1)
+            dp[i] = max(dp[i-1] if i > 0 else 0, val + (dp[j] if j >= 0 else 0))
 
-            curr_power,curr_cnt = power_cnt[idx]
-            next_idx = bisect.bisect_left(power_cnt,(curr_power+3,-1))
-            damage = curr_power * curr_cnt + max_damage(next_idx)
-
-            cache[idx] = max(not_damage,damage)
-            return cache[idx]
-
-        return max_damage(0)
+        return dp[-1]
