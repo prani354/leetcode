@@ -55,6 +55,7 @@
 | [2429-design-a-food-rating-system](https://github.com/prani354/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/prani354/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/prani354/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/prani354/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/prani354/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prani354/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
