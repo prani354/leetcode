@@ -59,6 +59,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/prani354/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/prani354/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/prani354/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/prani354/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/prani354/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prani354/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -124,6 +125,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prani354/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/prani354/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/prani354/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3827-implement-router](https://github.com/prani354/leetcode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
@@ -207,6 +209,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prani354/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/prani354/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/prani354/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -249,12 +252,14 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/prani354/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/prani354/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/prani354/leetcode/tree/master/0239-sliding-window-maximum) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/prani354/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prani354/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1184-car-pooling](https://github.com/prani354/leetcode/tree/master/1184-car-pooling) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/prani354/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/prani354/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prani354/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Heap (Priority Queue)
 |  |
