@@ -76,6 +76,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/prani354/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/prani354/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/prani354/leetcode/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/prani354/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/prani354/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/prani354/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prani354/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -103,6 +104,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/prani354/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/prani354/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/prani354/leetcode/tree/master/2023-design-movie-rental-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/prani354/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/prani354/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prani354/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -247,6 +249,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prani354/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/prani354/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/prani354/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -404,6 +407,7 @@
 | ------- |
 | [0078-subsets](https://github.com/prani354/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prani354/leetcode/tree/master/0090-subsets-ii) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/prani354/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Union Find
 |  |
 | ------- |
@@ -416,4 +420,5 @@
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prani354/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/prani354/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
