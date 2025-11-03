@@ -4,7 +4,7 @@ class Solution:
         left = 0
 
         n = len(colors)
-        #two pointers
+        #two pointers  #sliding window
         for right in range(1,n):
             if colors[left] == colors[right]:
                 
