@@ -59,6 +59,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prani354/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/prani354/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prani354/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/prani354/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/prani354/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/prani354/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -112,6 +113,7 @@
 | [2429-design-a-food-rating-system](https://github.com/prani354/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prani354/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prani354/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3797-design-spreadsheet](https://github.com/prani354/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/prani354/leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/prani354/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -266,6 +268,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/prani354/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/prani354/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/prani354/leetcode/tree/master/0239-sliding-window-maximum) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prani354/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/prani354/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Prefix Sum
 |  |
@@ -288,6 +291,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/prani354/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/prani354/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/prani354/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prani354/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Monotonic Queue
 |  |
 | ------- |
