@@ -479,6 +479,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prani354/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prani354/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prani354/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/prani354/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -486,6 +487,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prani354/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prani354/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prani354/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/prani354/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -493,6 +495,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/prani354/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/prani354/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prani354/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/prani354/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prani354/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/prani354/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/prani354/leetcode/tree/master/3863-power-grid-maintenance) |
