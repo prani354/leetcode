@@ -79,6 +79,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/prani354/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/prani354/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/prani354/leetcode/tree/master/3453-separate-squares-i) |
 | [3531-count-covered-buildings](https://github.com/prani354/leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prani354/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/prani354/leetcode/tree/master/3583-count-special-triplets) |
@@ -188,6 +189,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/prani354/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prani354/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/prani354/leetcode/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/prani354/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/prani354/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3827-implement-router](https://github.com/prani354/leetcode/tree/master/3827-implement-router) |
