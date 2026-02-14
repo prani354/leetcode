@@ -5,9 +5,9 @@ class Solution:
         
         for r in range(query_row):
             for c in range(len(dp[r])):
-                overflow = (dp[r][c] - 1.0) / 2.0
+                overflow = (dp[r][c] - 1.0) / 2.0  #if previous one exceeds more than one it will br overflown 
                 if overflow > 0:
                     dp[r+1][c] += overflow
                     dp[r+1][c+1] += overflow
         
-        return min(1.0, dp[query_row][query_glass])
+        return min(1.0, dp[query_row][query_glass])  # Normalized value from 0 to 1 
