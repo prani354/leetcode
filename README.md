@@ -224,6 +224,7 @@
 | [0322-coin-change](https://github.com/prani354/leetcode/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/prani354/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prani354/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0799-champagne-tower](https://github.com/prani354/leetcode/tree/master/0799-champagne-tower) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/prani354/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/prani354/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prani354/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
