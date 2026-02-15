@@ -109,6 +109,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prani354/leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prani354/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/prani354/leetcode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/prani354/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -142,6 +143,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prani354/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/prani354/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prani354/leetcode/tree/master/0090-subsets-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/prani354/leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -243,6 +245,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prani354/leetcode/tree/master/0067-add-binary) |
 | [1184-car-pooling](https://github.com/prani354/leetcode/tree/master/1184-car-pooling) |
 | [1642-water-bottles](https://github.com/prani354/leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prani354/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -280,6 +283,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prani354/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/prani354/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/prani354/leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/prani354/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prani354/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/prani354/leetcode/tree/master/0474-ones-and-zeroes) |
