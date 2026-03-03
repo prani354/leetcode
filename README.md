@@ -247,6 +247,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/prani354/leetcode/tree/master/0067-add-binary) |
 | [1184-car-pooling](https://github.com/prani354/leetcode/tree/master/1184-car-pooling) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/prani354/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/prani354/leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prani354/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prani354/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -292,6 +293,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/prani354/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/prani354/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/prani354/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/prani354/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prani354/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prani354/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prani354/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -598,4 +600,8 @@
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/prani354/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/prani354/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
