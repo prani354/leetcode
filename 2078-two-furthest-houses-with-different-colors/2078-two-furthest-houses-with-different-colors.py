@@ -13,3 +13,11 @@ class Solution:
 
         return max_len
         
+        # Two pointers
+        """ 
+            For 0(n) solution, first from the beginning to end 
+            if colors[i] != left: dist = max(dist,i)
+            right = colors[-1] , if colors[i] != right: dist = max(dist,len(colors) - i - 1)
+
+            From the beginning and from the end , two traversal and results the max_dist 
+        """
