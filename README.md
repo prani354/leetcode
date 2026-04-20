@@ -67,6 +67,7 @@
 | [1975-maximum-matrix-sum](https://github.com/prani354/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/prani354/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/prani354/leetcode/tree/master/2023-design-movie-rental-system) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/prani354/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prani354/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prani354/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prani354/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -276,6 +277,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/prani354/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prani354/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/prani354/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/prani354/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prani354/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prani354/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prani354/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
