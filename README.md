@@ -432,6 +432,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/prani354/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/prani354/leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/prani354/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/prani354/leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/prani354/leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prani354/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -616,4 +617,8 @@
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prani354/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/prani354/leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
