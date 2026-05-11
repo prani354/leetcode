@@ -34,6 +34,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/prani354/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/prani354/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/prani354/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/prani354/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prani354/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prani354/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/prani354/leetcode/tree/master/0611-valid-triangle-number) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/prani354/leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prani354/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0523-continuous-subarray-sum](https://github.com/prani354/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0830-largest-triangle-area](https://github.com/prani354/leetcode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/prani354/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/prani354/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -170,6 +172,7 @@
 | [0049-group-anagrams](https://github.com/prani354/leetcode/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prani354/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/prani354/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0523-continuous-subarray-sum](https://github.com/prani354/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prani354/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/prani354/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/prani354/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -410,6 +413,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prani354/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/prani354/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prani354/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/prani354/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/prani354/leetcode/tree/master/1004-max-consecutive-ones-iii) |
