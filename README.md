@@ -311,6 +311,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/prani354/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/prani354/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/prani354/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/prani354/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/prani354/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prani354/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/prani354/leetcode/tree/master/0344-reverse-string) |
@@ -462,6 +463,7 @@
 | [0042-trapping-rain-water](https://github.com/prani354/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/prani354/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/prani354/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/prani354/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/prani354/leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prani354/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/prani354/leetcode/tree/master/0283-move-zeroes) |
