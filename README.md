@@ -36,6 +36,7 @@
 | [0474-ones-and-zeroes](https://github.com/prani354/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/prani354/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/prani354/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prani354/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/prani354/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prani354/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prani354/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -487,6 +488,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/prani354/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prani354/leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/prani354/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prani354/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/prani354/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prani354/leetcode/tree/master/0739-daily-temperatures) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/prani354/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -498,6 +500,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/prani354/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prani354/leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/prani354/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prani354/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/prani354/leetcode/tree/master/0739-daily-temperatures) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/prani354/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Breadth-First Search
