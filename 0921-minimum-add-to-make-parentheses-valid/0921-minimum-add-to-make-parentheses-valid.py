@@ -15,4 +15,4 @@ class Solution:
                 else:
                     rb += 1
 
-        return lb + rb
+        return rb + lb
