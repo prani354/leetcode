@@ -135,6 +135,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/prani354/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/prani354/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/prani354/leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prani354/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -272,6 +273,7 @@
 | [0042-trapping-rain-water](https://github.com/prani354/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/prani354/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/prani354/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/prani354/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prani354/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/prani354/leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/prani354/leetcode/tree/master/0120-triangle) |
@@ -679,6 +681,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/prani354/leetcode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/prani354/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prani354/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prani354/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
