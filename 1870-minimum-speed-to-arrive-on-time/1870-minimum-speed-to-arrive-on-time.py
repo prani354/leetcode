@@ -11,7 +11,7 @@ class Solution:
             return tot
 
         l = 1
-        h = 10 ** 7
+        h = 10**7
         res = -1
 
         while l <= h:
