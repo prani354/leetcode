@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prani354/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/prani354/leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prani354/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0523-continuous-subarray-sum](https://github.com/prani354/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0830-largest-triangle-area](https://github.com/prani354/leetcode/tree/master/0830-largest-triangle-area) |
@@ -271,6 +272,7 @@
 | [0042-trapping-rain-water](https://github.com/prani354/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/prani354/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/prani354/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/prani354/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/prani354/leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/prani354/leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prani354/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -715,6 +717,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prani354/leetcode/tree/master/0070-climbing-stairs) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/prani354/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Recursion
 |  |
