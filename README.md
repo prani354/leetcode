@@ -136,6 +136,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prani354/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prani354/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/prani354/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/prani354/leetcode/tree/master/0070-climbing-stairs) |
@@ -727,6 +728,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prani354/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/prani354/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prani354/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/prani354/leetcode/tree/master/0394-decode-string) |
