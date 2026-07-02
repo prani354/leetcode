@@ -1,17 +1,20 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        def backtrack(i,ans):
-            if i > len(nums):
+        res = []
+        curr = []
+        def dfs(i):
+
+            if i >= len(nums):
+                res.append(curr[:])
                 return
-            
-            res.append(ans[:])
 
-            for j in range(i,len(nums)):
-                ans.append(nums[j])
-                backtrack(j+1,ans)
-                ans.pop()
+            #Include the number
+            curr.append(nums[i])
+            dfs(i+1)
 
-        res =[]
-        backtrack(0,[])
+            #Not include the number
+            curr.pop()
+            dfs(i+1)
+
+        dfs(0)
         return res
-        
