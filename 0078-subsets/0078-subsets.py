@@ -4,16 +4,17 @@ class Solution:
         curr = []
         def dfs(i):
 
-            if i >= len(nums):
+            if i == len(nums):
                 res.append(curr[:])
                 return
 
             #Include the number
             curr.append(nums[i])
             dfs(i+1)
-
-            #Not include the number
+            
             curr.pop()
+            #Not include the number
+            
             dfs(i+1)
 
         dfs(0)
