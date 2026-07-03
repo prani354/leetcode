@@ -1,24 +1,26 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        if not candidates: return []
-
-        res = []
         candidates.sort()
+        res = []
 
-        def backtrack(start,curr,total):
-            if total > target:
+        def backtrack(curr,idx,target):
+            if target == 0:
+                res.append(curr.copy())
+
+            if target <= 0:
                 return
 
-            if total == target:
-                res.append(curr)
-                return 
+            prev = -1
 
-            for i in range(start,len(candidates)):
-                if i > start and candidates[i] == candidates[i-1]:
+            for i in range(idx,len(candidates)):
+                if candidates[i] == prev:
                     continue
 
-                backtrack(i+1,curr+[candidates[i]], total + candidates[i])
+                curr.append(candidates[i])
+                backtrack(curr,i+1,target - candidates[i])
+                curr.pop()
 
-        backtrack(0,[],0)
+                prev = candidates[i]
 
+        backtrack([],0,target)
         return res
