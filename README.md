@@ -457,6 +457,7 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/prani354/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/prani354/leetcode/tree/master/1683-invalid-tweets) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/prani354/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1729-find-followers-count](https://github.com/prani354/leetcode/tree/master/1729-find-followers-count) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/prani354/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/prani354/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/prani354/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
