@@ -4,13 +4,17 @@ class Solution:
         hashmap = { '}':'{' , ')':'(', ']':'['}
 
         for ch in s:
+
             if ch in hashmap:
-                if not stack or stack[-1] != hashmap[ch]:
+                if not stack and stack[-1] != hashmap[ch]:
                     return False
 
+                
                 stack.pop()
 
-            else:
+            else:  
                 stack.append(ch)
 
         return len(stack) == 0
+
+                
