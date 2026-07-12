@@ -575,6 +575,7 @@
 | [0735-asteroid-collision](https://github.com/prani354/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prani354/leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/prani354/leetcode/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/prani354/leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prani354/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prani354/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/prani354/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -590,6 +591,7 @@
 | [0496-next-greater-element-i](https://github.com/prani354/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prani354/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/prani354/leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/prani354/leetcode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prani354/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/prani354/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Breadth-First Search
@@ -648,6 +650,7 @@
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/prani354/leetcode/tree/master/0901-online-stock-span) |
 | [2023-design-movie-rental-system](https://github.com/prani354/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/prani354/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/prani354/leetcode/tree/master/3797-design-spreadsheet) |
@@ -779,4 +782,8 @@
 | [0234-palindrome-linked-list](https://github.com/prani354/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/prani354/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/prani354/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/prani354/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
