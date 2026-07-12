@@ -1,18 +1,20 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
         
-        lb = 0
-        rb = 0
+        left_b = 0
+        right_b = 0
 
         for ch in s:
             if ch == '(':
-                lb += 1
+                left_b += 1
 
             else:
-                if lb > 0:
-                    lb -= 1
+                right_b += 1
 
-                else:
-                    rb += 1
+                if left_b > 0:
+                    left_b -= 1
+                    right_b -= 1
 
-        return rb + lb
+        return left_b + right_b
+
+        
