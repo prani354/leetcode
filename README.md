@@ -345,6 +345,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prani354/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/prani354/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/prani354/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/prani354/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1612-avoid-flood-in-the-city](https://github.com/prani354/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prani354/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/prani354/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -381,6 +382,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/prani354/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/prani354/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/prani354/leetcode/tree/master/1006-vowel-spellchecker) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/prani354/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/prani354/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prani354/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prani354/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -574,6 +576,7 @@
 | [0739-daily-temperatures](https://github.com/prani354/leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/prani354/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prani354/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/prani354/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/prani354/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/prani354/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -587,6 +590,7 @@
 | [0496-next-greater-element-i](https://github.com/prani354/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prani354/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/prani354/leetcode/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/prani354/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/prani354/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Breadth-First Search
 |  |
