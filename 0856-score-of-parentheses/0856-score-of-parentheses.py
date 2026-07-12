@@ -11,7 +11,7 @@ class Solution:
             else:
                 depth -= 1
 
-                if s[i-1] == '(': #Stack check to find it is nested
+                if s[i-1] =='(':  #previous index element has open bracket
                     res += (2 ** depth)
 
-        return res        
+        return res
