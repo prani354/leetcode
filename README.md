@@ -338,6 +338,7 @@
 | [0045-jump-game-ii](https://github.com/prani354/leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/prani354/leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/prani354/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/prani354/leetcode/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/prani354/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/prani354/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/prani354/leetcode/tree/master/0917-boats-to-save-people) |
@@ -369,6 +370,7 @@
 | [0316-remove-duplicate-letters](https://github.com/prani354/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/prani354/leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/prani354/leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/prani354/leetcode/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prani354/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/prani354/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/prani354/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -565,6 +567,7 @@
 | [0234-palindrome-linked-list](https://github.com/prani354/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/prani354/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/prani354/leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/prani354/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/prani354/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prani354/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/prani354/leetcode/tree/master/0735-asteroid-collision) |
@@ -580,6 +583,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/prani354/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prani354/leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/prani354/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/prani354/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/prani354/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prani354/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/prani354/leetcode/tree/master/0739-daily-temperatures) |
