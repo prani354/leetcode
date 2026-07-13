@@ -318,6 +318,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/prani354/leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/prani354/leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/prani354/leetcode/tree/master/0844-backspace-string-compare) |
 | [1184-car-pooling](https://github.com/prani354/leetcode/tree/master/1184-car-pooling) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prani354/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/prani354/leetcode/tree/master/1642-water-bottles) |
@@ -377,6 +378,7 @@
 | [0474-ones-and-zeroes](https://github.com/prani354/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/prani354/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/prani354/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0844-backspace-string-compare](https://github.com/prani354/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/prani354/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prani354/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/prani354/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -555,6 +557,7 @@
 | [0344-reverse-string](https://github.com/prani354/leetcode/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/prani354/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/prani354/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/prani354/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/prani354/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/prani354/leetcode/tree/master/0917-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prani354/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -575,6 +578,7 @@
 | [0503-next-greater-element-ii](https://github.com/prani354/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/prani354/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prani354/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/prani354/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/prani354/leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/prani354/leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prani354/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
