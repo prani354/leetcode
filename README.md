@@ -388,6 +388,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prani354/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prani354/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/prani354/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1544-make-the-string-great](https://github.com/prani354/leetcode/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prani354/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1598-crawler-log-folder](https://github.com/prani354/leetcode/tree/master/1598-crawler-log-folder) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prani354/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -586,6 +587,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prani354/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prani354/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prani354/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1544-make-the-string-great](https://github.com/prani354/leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/prani354/leetcode/tree/master/1598-crawler-log-folder) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/prani354/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/prani354/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
