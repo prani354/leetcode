@@ -1,23 +1,21 @@
 from collections import defaultdict
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-        n = len(fruits)
-        max_fruits = 0
-        fruit_count = defaultdict(int)
+        baskets = defaultdict(int)
         left = 0
+        max_len = 0
 
-        for right in range(n):
-            fruit_count[fruits[right]] += 1
+        for right in range(len(fruits)):
+            baskets[fruits[right]] = baskets.get(fruits[right],0) + 1
 
-            while len(fruit_count) > 2:
-                fruit_count[fruits[left]] -= 1
+            while len(baskets) > 2:
+                baskets[fruits[left]] -= 1
 
-                if fruit_count[fruits[left]] == 0:
-                    del fruit_count[fruits[left]]
+                if baskets[fruits[left]] == 0:
+                    del baskets[fruits[left]]
 
                 left += 1
-                
-            max_fruits = max(max_fruits,right - left + 1)
 
-        return max_fruits
-                
+            max_len = max(max_len,right-left+1)
+
+        return max_len
