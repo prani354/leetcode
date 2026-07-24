@@ -12,7 +12,7 @@ class Solution:
                     curr.append(num)
                     backtrack(curr)
                     curr.pop()
-
+        
         backtrack([])
 
         return res
