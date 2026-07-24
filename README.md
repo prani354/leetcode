@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/prani354/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/prani354/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prani354/leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/prani354/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prani354/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prani354/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/prani354/leetcode/tree/master/0039-combination-sum) |
@@ -573,6 +574,7 @@
 | [0005-longest-palindromic-substring](https://github.com/prani354/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/prani354/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prani354/leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/prani354/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/prani354/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/prani354/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/prani354/leetcode/tree/master/0075-sort-colors) |
