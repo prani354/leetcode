@@ -111,6 +111,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/prani354/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/prani354/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prani354/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2404-most-frequent-even-element](https://github.com/prani354/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2429-design-a-food-rating-system](https://github.com/prani354/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prani354/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prani354/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -230,6 +231,7 @@
 | [2023-design-movie-rental-system](https://github.com/prani354/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/prani354/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prani354/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2404-most-frequent-even-element](https://github.com/prani354/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2429-design-a-food-rating-system](https://github.com/prani354/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prani354/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/prani354/leetcode/tree/master/2615-sum-of-distances) |
@@ -511,6 +513,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/prani354/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/prani354/leetcode/tree/master/0767-reorganize-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/prani354/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2404-most-frequent-even-element](https://github.com/prani354/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/prani354/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/prani354/leetcode/tree/master/3583-count-special-triplets) |
