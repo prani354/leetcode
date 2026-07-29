@@ -72,6 +72,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/prani354/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/prani354/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/prani354/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/prani354/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/prani354/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/prani354/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prani354/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -225,6 +226,7 @@
 | [0840-magic-squares-in-grid](https://github.com/prani354/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prani354/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/prani354/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/prani354/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1006-vowel-spellchecker](https://github.com/prani354/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/prani354/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/prani354/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
@@ -545,6 +547,7 @@
 | [0523-continuous-subarray-sum](https://github.com/prani354/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prani354/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/prani354/leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/prani354/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/prani354/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/prani354/leetcode/tree/master/1184-car-pooling) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prani354/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
