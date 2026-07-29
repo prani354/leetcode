@@ -4,16 +4,19 @@ class Solution:
         
         heap = []
         freq = Counter(nums)
+        res = 0
 
-        for key, value in freq.items():
+        for key,value in freq.items():
             heapq.heappush(heap,(value,key))
 
             if len(heap) > k:
                 heapq.heappop(heap)
 
+        print(heap)
+
         res = []
-        for key,value in heap:
-            res.append(value)
+        for v,k in heap:
+            res.append(k)
 
         return res
 
