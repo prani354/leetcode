@@ -182,6 +182,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/prani354/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prani354/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prani354/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prani354/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-water-bottles-ii](https://github.com/prani354/leetcode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/prani354/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/prani354/leetcode/tree/master/3433-count-mentions-per-user) |
@@ -385,6 +386,7 @@
 | [1975-maximum-matrix-sum](https://github.com/prani354/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/prani354/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prani354/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prani354/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prani354/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prani354/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/prani354/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -433,6 +435,7 @@
 | [2429-design-a-food-rating-system](https://github.com/prani354/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prani354/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/prani354/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prani354/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3462-vowels-game-in-a-string](https://github.com/prani354/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/prani354/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/prani354/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
