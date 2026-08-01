@@ -131,6 +131,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/prani354/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/prani354/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/prani354/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/prani354/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/prani354/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/prani354/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -361,6 +362,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/prani354/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prani354/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3336-water-bottles-ii](https://github.com/prani354/leetcode/tree/master/3336-water-bottles-ii) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/prani354/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3433-count-mentions-per-user](https://github.com/prani354/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/prani354/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prani354/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -704,6 +706,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prani354/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prani354/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prani354/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/prani354/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/prani354/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3797-design-spreadsheet](https://github.com/prani354/leetcode/tree/master/3797-design-spreadsheet) |
 ## Number Theory
