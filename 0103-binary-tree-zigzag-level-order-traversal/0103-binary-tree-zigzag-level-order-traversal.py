@@ -7,42 +7,35 @@
 from collections import deque
 class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+
         if not root:
             return []
 
         flag = True
         q = deque()
         q.append(root)
-        res = []
+        ans = []
 
         while q:
             size = len(q)
-            curr = []
+            res = []
 
-            for _ in range(size):
+            for i in range(size):
                 node = q.popleft()
-                curr.append(node.val)
+                res.append(node.val)
+
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            
-            if flag == True:
-                res.append(curr)
-                flag = False
-            else:
-                res.append(curr[::-1])
-                flag = True
-
-        return res
-            
-
-            
 
                 
 
+            if flag:
+                ans.append(res)
+                flag = False
+            else:
+                ans.append(res[::-1])
+                flag = True
 
-
-
-
-        
+        return ans
