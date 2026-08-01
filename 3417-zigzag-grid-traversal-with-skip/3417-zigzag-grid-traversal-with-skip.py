@@ -8,14 +8,16 @@ class Solution:
             if flag:
                 for j in range(0,len(grid[0]),2):
                     res.append(grid[i][j])
-                    flag = False
+                
                 ans.extend(res)
+                flag = False
 
             else:
                 for j in range(1,len(grid),2):
                     res.append(grid[i][j])
-                    flag = True
+                
                 ans.extend(res[::-1])
+                flag = True
                 
 
         return ans
