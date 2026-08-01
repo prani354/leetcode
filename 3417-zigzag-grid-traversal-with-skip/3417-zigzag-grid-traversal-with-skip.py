@@ -13,7 +13,7 @@ class Solution:
                 flag = False
 
             else:
-                for j in range(1,len(grid),2):
+                for j in range(1,len(grid[0]),2):
                     res.append(grid[i][j])
                 
                 ans.extend(res[::-1])
