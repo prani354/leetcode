@@ -69,6 +69,7 @@
 | [0830-largest-triangle-area](https://github.com/prani354/leetcode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/prani354/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/prani354/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/prani354/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/prani354/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/prani354/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/prani354/leetcode/tree/master/0917-boats-to-save-people) |
@@ -166,6 +167,7 @@
 | [0523-continuous-subarray-sum](https://github.com/prani354/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0830-largest-triangle-area](https://github.com/prani354/leetcode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/prani354/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/prani354/leetcode/tree/master/0877-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/prani354/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/prani354/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/prani354/leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -330,6 +332,7 @@
 | [0486-predict-the-winner](https://github.com/prani354/leetcode/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prani354/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0799-champagne-tower](https://github.com/prani354/leetcode/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/prani354/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prani354/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1027-longest-arithmetic-subsequence](https://github.com/prani354/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/prani354/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -496,6 +499,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/prani354/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/prani354/leetcode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/prani354/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Database
 |  |
