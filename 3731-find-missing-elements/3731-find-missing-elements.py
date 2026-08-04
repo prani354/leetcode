@@ -1,13 +1,18 @@
 class Solution:
     def findMissingElements(self, nums: List[int]) -> List[int]:
-        start = min(nums)
-        end = max(nums)
-        res = []
-
-        for i in range(start,end+1):
-            if i not in nums:
-                res.append(i)
-
-        return res
-
+        m = float('inf')
+        ma = float('-inf')
+        for x in nums:
+            if x < m:
+                m = x
+            if x > ma:
+                ma = x
+        s = set()
+        for b in nums:
+            s.add(b)
+        ans = []
+        for a in range(m, ma + 1):
+            if a not in s:
+                ans.append(a)
+        return ans
 
