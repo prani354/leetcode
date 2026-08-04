@@ -1,22 +1,12 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        jumps = 0
-        l , r = 0 , 0
-        n = len(nums)
+        reach,count,last = 0,0,0
 
-        while r < n-1:
-            farthest = 0
-            for i in range(l,r+1):
-                farthest = max(farthest,i+nums[i])
-            l = r+1
-            r = farthest
-            jumps += 1
+        for i in range(len(nums)-1):
+            reach = max(reach,i+nums[i])
 
-        return jumps
+            if i == last:
+                last = reach
+                count += 1
 
-
-
-
-
-
-        
+        return count
