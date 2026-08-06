@@ -760,6 +760,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/prani354/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/prani354/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prani354/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prani354/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -779,6 +780,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/prani354/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/prani354/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prani354/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prani354/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -798,6 +800,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/prani354/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/prani354/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/prani354/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prani354/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -929,6 +932,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/prani354/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prani354/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prani354/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prani354/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
