@@ -1,15 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        n = len(nums)
+        d = {}
 
-        hashset = {}
-        for i in range(len(nums)):
-            ans = target - nums[i]
-            if ans in hashset:
-                return [hashset[ans] , i]
+        for i in range(n):
+            res = target - nums[i]
+            if res in d:
+                return [d[res],i]
             else:
-                hashset[nums[i]] = i
-
-        
-
-        
-        
+                d[nums[i]] = i
