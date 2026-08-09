@@ -5,9 +5,9 @@ class Solution:
         right_run = [0] * n
         l = r = 1
 
-        for i in range(len(nums)):
+        for i in range(n):
             left_run[i] = l
-            j = - i - 1
+            j = -i - 1
             right_run[j] = r
             l *= nums[i]
             r *= nums[j]
