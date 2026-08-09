@@ -33,6 +33,7 @@
 | [0090-subsets-ii](https://github.com/prani354/leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prani354/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/prani354/leetcode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/prani354/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/prani354/leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/prani354/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prani354/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -223,6 +224,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/prani354/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/prani354/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/prani354/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/prani354/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/prani354/leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/prani354/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prani354/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -927,6 +929,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/prani354/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/prani354/leetcode/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
