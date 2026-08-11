@@ -670,6 +670,7 @@
 | [0042-trapping-rain-water](https://github.com/prani354/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prani354/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prani354/leetcode/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/prani354/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/prani354/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/prani354/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/prani354/leetcode/tree/master/0394-decode-string) |
@@ -768,6 +769,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/prani354/leetcode/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/prani354/leetcode/tree/master/0901-online-stock-span) |
 | [2023-design-movie-rental-system](https://github.com/prani354/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/prani354/leetcode/tree/master/2429-design-a-food-rating-system) |
