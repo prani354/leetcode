@@ -968,4 +968,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prani354/leetcode/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prani354/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
