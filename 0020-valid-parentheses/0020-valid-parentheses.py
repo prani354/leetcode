@@ -3,18 +3,18 @@ class Solution:
         stack = []
         hashmap = { '}':'{' , ')':'(', ']':'['}
 
+        if not s: return True
+
         for ch in s:
-
             if ch in hashmap:
-                if not stack or stack[-1] != hashmap[ch]:
+                if not stack or hashmap[ch] != stack[-1]:
                     return False
-
                 else:
                     stack.pop()
 
-            else:  
+            else:
                 stack.append(ch)
 
-        return len(stack) == 0
+        return stack == []
 
-                
+        
