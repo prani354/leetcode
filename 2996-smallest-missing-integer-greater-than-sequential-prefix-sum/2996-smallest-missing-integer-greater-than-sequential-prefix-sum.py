@@ -12,11 +12,8 @@ class Solution:
 
         #print(prefix)
 
-        if prefix in nums:
-            while True:
-                if prefix+1 not in nums:
-                    return prefix+1
-                else:
-                    prefix += 1
-        
+        nums_set = set(nums)
+        while prefix in nums_set:
+            prefix += 1
+
         return prefix
