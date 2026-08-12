@@ -4,22 +4,16 @@ class Solution:
         stack = []
         max_area = 0
 
-        for i,height in enumerate(heights):
-            start = i
-
+        for idx,height in enumerate(heights):
+            start = idx
             while stack and stack[-1][1] > height:
-                j , h = stack.pop()
-                w = i - j
-                area = h * w
-                max_area = max(max_area,area)
-                start = j
+                i,h = stack.pop()
+                max_area = max(max_area,h*(idx-i))
+                start = i
 
             stack.append((start,height))
 
-        while stack:
-            j , h = stack.pop()
-            w = n - j
-            area = h * w
-            max_area = max(max_area,area)
+        for i,h in stack:
+            max_area = max(max_area,h*(n-i))
 
         return max_area
