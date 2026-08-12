@@ -17,5 +17,4 @@ class Solution:
                 res.append(0)
                 stack.append((temperatures[i],i))
 
-        return res[::-1]
-
+        return res[::-1] 
