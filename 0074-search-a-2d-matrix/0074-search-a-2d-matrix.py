@@ -1,18 +1,22 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        for mat in matrix:
-            l , h = 0 , len(mat) - 1
+        rows = len(matrix)
+        cols = len(matrix[0])
 
-            while l <= h:
-                mid = (l + h) // 2
+        left = 0
+        right = rows * cols - 1
 
-                if mat[mid] == target:
-                    return True
+        while left <= right:
+            mid = (left + right) // 2
 
-                elif mat[mid] > target:
-                    h = mid - 1
-                
-                else:
-                    l = mid + 1
+            row = mid // cols
+            col = mid % cols
 
+            if matrix[row][col] == target:
+                return True
+            elif matrix[row][col] < target:
+                left = mid + 1
+            else:
+                right = mid - 1
+            
         return False
