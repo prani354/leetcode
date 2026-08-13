@@ -4,17 +4,16 @@ class Solution:
         r = max(piles)
 
         while l <= r:
-            mid = (l+r) // 2
+            m = (l+r) // 2
 
-            tot = 0
+            total = 0
             for pile in piles:
-                tot += math.ceil(pile/mid)
+                total += math.ceil(pile/m)
 
-            if tot <= h:
-                res = mid
-                r = mid - 1
-
+            if total <= h:
+                res = m
+                r = m - 1
             else:
-                l = mid + 1
+                l = m + 1
 
         return res
