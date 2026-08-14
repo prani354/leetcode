@@ -3,25 +3,27 @@ class Solution:
         n1 = len(nums1)
         n2 = len(nums2)
 
-        if n1 > n2:
+        if n1 > n2:  # Always have the smaller length array as nums1
             return self.findMedianSortedArrays(nums2,nums1)
 
         l = 0
         h = n1
-        left = (n1 + n2 + 1) // 2
+        left_sym = (n1 + n2 + 1) // 2
         n = n1 + n2
 
         while l <= h:
             mid1 = (l + h) // 2
-            mid2 = left - mid1
+            mid2 = left_sym - mid1
             l1 = l2 = float('-inf')
             r1 = r2 = float('inf')
 
-            if mid1 < n1:
+            # Edge cases
+            if mid1 < n1:  
                 r1 = nums1[mid1]
             if mid2 < n2:
                 r2 = nums2[mid2]
 
+            # Edge cases 
             if mid1 - 1 >= 0: l1 = nums1[mid1-1]
             if mid2 - 1 >= 0: l2 = nums2[mid2-1]
 
