@@ -5,16 +5,24 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def __init__(self):
-        self.diameter = 0
-
-    def depth(self,node):  # Calculate the septh of each node 
-        left = self.depth(node.left) if node.left else 0
-        right = self.depth(node.right) if node.right else 0
-
-        self.diameter = max(self.diameter, left + right)
-        return 1 + max(left , right)
+    
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        self.depth(root)
-        return self.diameter
+        dia = 0
+
+        def dfs(node):
+            nonlocal dia 
+            if not node:
+                return 0
+            
+            left = dfs(node.left)
+            right = dfs(node.right)
+
+            dia = max(dia, left + right)
+
+            return 1 + max(left, right)
+
+        dfs(root)
+        return dia
+
+        
         
