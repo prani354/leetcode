@@ -1024,4 +1024,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prani354/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/prani354/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
