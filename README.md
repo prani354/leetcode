@@ -236,6 +236,7 @@
 | [0133-clone-graph](https://github.com/prani354/leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/prani354/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prani354/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/prani354/leetcode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prani354/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/prani354/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prani354/leetcode/tree/master/0217-contains-duplicate) |
@@ -788,6 +789,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/prani354/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/prani354/leetcode/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/prani354/leetcode/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/prani354/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -961,6 +963,7 @@
 | [0141-linked-list-cycle](https://github.com/prani354/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prani354/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prani354/leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/prani354/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/prani354/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prani354/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/prani354/leetcode/tree/master/0328-odd-even-linked-list) |
@@ -1005,4 +1008,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prani354/leetcode/tree/master/0141-linked-list-cycle) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/prani354/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
