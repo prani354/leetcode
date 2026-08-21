@@ -1012,4 +1012,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/prani354/leetcode/tree/master/0146-lru-cache) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prani354/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
