@@ -12,15 +12,14 @@ class Solution:
             if not root:
                 return 0
 
-            
-            left_height = height(root.left)
-            right_height = height(root.right)
+            left_tree = height(root.left)
+            right_tree = height(root.right)
 
-            if abs(left_height - right_height) > 1:
+            if abs(left_tree - right_tree) > 1:
                 balanced[0] = False
                 return 0
 
-            return 1 + max(left_height,right_height)
+            return 1 + max(left_tree,right_tree)
 
         height(root)
         return balanced[0]
