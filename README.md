@@ -193,6 +193,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/prani354/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prani354/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/prani354/leetcode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/prani354/leetcode/tree/master/1927-sum-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prani354/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/prani354/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prani354/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -426,6 +427,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prani354/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/prani354/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prani354/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/prani354/leetcode/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/prani354/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/prani354/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prani354/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -477,6 +479,7 @@
 | [1598-crawler-log-folder](https://github.com/prani354/leetcode/tree/master/1598-crawler-log-folder) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prani354/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prani354/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1927-sum-game](https://github.com/prani354/leetcode/tree/master/1927-sum-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prani354/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prani354/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/prani354/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -544,6 +547,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/prani354/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/prani354/leetcode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/prani354/leetcode/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/prani354/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Database
 |  |
