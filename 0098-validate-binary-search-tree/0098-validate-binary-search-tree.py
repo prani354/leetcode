@@ -15,10 +15,10 @@ class Solution:
 
         while q:
             node,lower,upper = q.popleft()
-            if not (lower < node.val < upper):
-                return False
 
-            if node.left:
+            if not (lower < node.val < upper): return False
+
+            if node.left: 
                 q.append((node.left,lower,node.val))
             if node.right:
                 q.append((node.right,node.val,upper))
