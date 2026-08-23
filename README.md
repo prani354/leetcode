@@ -1055,6 +1055,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prani354/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/prani354/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## String Matching
 |  |
