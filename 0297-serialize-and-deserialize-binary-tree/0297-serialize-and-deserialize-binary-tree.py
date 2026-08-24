@@ -22,8 +22,6 @@ class Codec:
                 queue.appendleft(node.left)
                 queue.appendleft(node.right)
             else:
-                # you can use any char to represent null
-                # empty string means test for a non-null node is simply: flat_bt[i]
                 flat_bt.append('')
         return ','.join(flat_bt)
 
@@ -40,7 +38,6 @@ class Codec:
         ans = TreeNode(flat_bt[0])
         queue = collections.deque([ans])
         i = 1
-        # when you pop a node, its children will be at i and i+1
         while queue:
             node = queue.pop()
             if i < len(flat_bt) and flat_bt[i]:
