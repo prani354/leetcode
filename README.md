@@ -68,6 +68,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/prani354/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prani354/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/prani354/leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/prani354/leetcode/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prani354/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/prani354/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prani354/leetcode/tree/master/0724-find-pivot-index) |
@@ -255,6 +256,7 @@
 | [0523-continuous-subarray-sum](https://github.com/prani354/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prani354/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/prani354/leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/prani354/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prani354/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0756-pyramid-transition-matrix](https://github.com/prani354/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0767-reorganize-string](https://github.com/prani354/leetcode/tree/master/0767-reorganize-string) |
@@ -420,6 +422,7 @@
 | [0316-remove-duplicate-letters](https://github.com/prani354/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/prani354/leetcode/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/prani354/leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/prani354/leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/prani354/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/prani354/leetcode/tree/master/0767-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/prani354/leetcode/tree/master/0917-boats-to-save-people) |
@@ -515,6 +518,7 @@
 | [0436-find-right-interval](https://github.com/prani354/leetcode/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/prani354/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/prani354/leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/prani354/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/prani354/leetcode/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/prani354/leetcode/tree/master/0853-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/prani354/leetcode/tree/master/0917-boats-to-save-people) |
@@ -589,6 +593,7 @@
 | [0169-majority-element](https://github.com/prani354/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/prani354/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/prani354/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/prani354/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/prani354/leetcode/tree/master/0767-reorganize-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/prani354/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2404-most-frequent-even-element](https://github.com/prani354/leetcode/tree/master/2404-most-frequent-even-element) |
@@ -643,6 +648,7 @@
 | [0347-top-k-frequent-elements](https://github.com/prani354/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/prani354/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/prani354/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/prani354/leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prani354/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/prani354/leetcode/tree/master/0767-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/prani354/leetcode/tree/master/0794-swim-in-rising-water) |
