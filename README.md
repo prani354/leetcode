@@ -94,6 +94,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/prani354/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1027-longest-arithmetic-subsequence](https://github.com/prani354/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1036-rotting-oranges](https://github.com/prani354/leetcode/tree/master/1036-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/prani354/leetcode/tree/master/1046-last-stone-weight) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/prani354/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/prani354/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/prani354/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -642,6 +643,7 @@
 | [0767-reorganize-string](https://github.com/prani354/leetcode/tree/master/0767-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/prani354/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/prani354/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/prani354/leetcode/tree/master/1046-last-stone-weight) |
 | [1184-car-pooling](https://github.com/prani354/leetcode/tree/master/1184-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prani354/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/prani354/leetcode/tree/master/1612-avoid-flood-in-the-city) |
