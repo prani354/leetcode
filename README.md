@@ -122,6 +122,7 @@
 | [2023-design-movie-rental-system](https://github.com/prani354/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prani354/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/prani354/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/prani354/leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prani354/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prani354/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/prani354/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -617,6 +618,7 @@
 | [0904-fruit-into-baskets](https://github.com/prani354/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/prani354/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/prani354/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/prani354/leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prani354/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/prani354/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prani354/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
