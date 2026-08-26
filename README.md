@@ -520,6 +520,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/prani354/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/prani354/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prani354/leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/prani354/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prani354/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/prani354/leetcode/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/prani354/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -653,6 +654,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/prani354/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prani354/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/prani354/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/prani354/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prani354/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/prani354/leetcode/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/prani354/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -698,6 +700,7 @@
 | [0234-palindrome-linked-list](https://github.com/prani354/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prani354/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prani354/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/prani354/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/prani354/leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/prani354/leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/prani354/leetcode/tree/master/0611-valid-triangle-number) |
@@ -828,6 +831,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/prani354/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/prani354/leetcode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/prani354/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prani354/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/prani354/leetcode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prani354/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1042,6 +1046,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/prani354/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prani354/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/prani354/leetcode/tree/master/0901-online-stock-span) |
 ## Union-Find
