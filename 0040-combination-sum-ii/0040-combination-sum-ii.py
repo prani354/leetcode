@@ -5,22 +5,18 @@ class Solution:
 
         def backtrack(curr,idx,target):
             if target == 0:
-                res.append(curr.copy())
-
-            if target <= 0:
+                res.append(curr[:])
                 return
 
-            prev = -1
-
             for i in range(idx,len(candidates)):
-                if candidates[i] == prev:
-                    continue
+                if i > idx and candidates[i] == candidates[i-1]:
+                    continue # Avoid duplicates
+
+                if candidates[i] > target: break
 
                 curr.append(candidates[i])
-                backtrack(curr,i+1,target - candidates[i])
+                backtrack(curr,i+1,target-candidates[i])
                 curr.pop()
-
-                prev = candidates[i]
 
         backtrack([],0,target)
         return res
