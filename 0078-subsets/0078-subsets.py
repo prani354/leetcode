@@ -8,13 +8,13 @@ class Solution:
                 res.append(curr[:])
                 return
 
+            #dont include
+            backtrack(curr,idx+1)
+
             #include
             curr.append(nums[idx])
             backtrack(curr,idx+1)
-
-            #not include
             curr.pop()
-            backtrack(curr,idx+1)
 
         backtrack([],0)
         return res
