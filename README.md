@@ -137,6 +137,7 @@
 | [2615-sum-of-distances](https://github.com/prani354/leetcode/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prani354/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prani354/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/prani354/leetcode/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2815-max-pair-sum-in-an-array](https://github.com/prani354/leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/prani354/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/prani354/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -643,6 +644,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prani354/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/prani354/leetcode/tree/master/1895-largest-magic-square) |
 | [2615-sum-of-distances](https://github.com/prani354/leetcode/tree/master/2615-sum-of-distances) |
+| [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/prani354/leetcode/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/prani354/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/prani354/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/prani354/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
