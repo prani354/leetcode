@@ -1,16 +1,17 @@
 class Solution:
     def checkSubarraySum(self, nums: List[int], k: int) -> bool:
         d = {0:-1}
-        prefix_sum = 0
+        curr = 0
 
         for i in range(len(nums)):
-            prefix_sum += nums[i]
-            prefix_sum %= k
+            curr += nums[i]
+            curr %= k
 
-            if prefix_sum not in d:
-                d[prefix_sum] = i
+            if curr not in d:
+                d[curr] = i
 
-            elif i - d[prefix_sum] >= 2:
+            elif i - d[curr] >= 2:
                 return True
 
         return False
+        
