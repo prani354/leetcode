@@ -1123,4 +1123,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/prani354/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/prani354/leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
