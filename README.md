@@ -1135,4 +1135,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/prani354/leetcode/tree/master/0523-continuous-subarray-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/prani354/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
