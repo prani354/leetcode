@@ -4,9 +4,9 @@ class Solution:
         res = nums[0]
 
         for num in nums:
-            val = (num , num*curr_max , num*curr_min)
-            curr_max , curr_min = max(val) , min(val)
-
-            res = max(res, curr_max)
+            value = (num,curr_min*num,curr_max*num)
+            curr_max,curr_min = max(value),min(value)
+            res = max(curr_max,res)
 
         return res
+        
