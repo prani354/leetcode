@@ -10,18 +10,19 @@ class Solution:
                 left -= 1
                 right += 1
 
-            return s[left + 1 : right]
+            return s[left+1:right]
 
         longest = ""
-        
+
         for i in range(len(s)):
-            oddp = expand(i,i)
-            evenp = expand(i,i+1)
+            
+            odd = expand(i,i)
+            even = expand(i,i+1)
 
-            if len(longest) < len(oddp):
-                longest = oddp
-            if len(longest) < len(evenp):
-                longest = evenp
+            if len(longest) < len(odd):
+                longest = odd
+            if len(longest) < len(even):
+                longest = even
 
-         
         return longest
+
