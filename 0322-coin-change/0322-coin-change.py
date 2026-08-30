@@ -17,5 +17,3 @@ class Solution:
                     visited.add(c)
 
         return -1
-        
-        
