@@ -135,6 +135,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prani354/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prani354/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/prani354/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2258-escape-the-spreading-fire](https://github.com/prani354/leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prani354/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/prani354/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/prani354/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -341,6 +342,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prani354/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/prani354/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/prani354/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2258-escape-the-spreading-fire](https://github.com/prani354/leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prani354/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/prani354/leetcode/tree/master/3453-separate-squares-i) |
@@ -818,6 +820,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prani354/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prani354/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/prani354/leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2258-escape-the-spreading-fire](https://github.com/prani354/leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [3863-power-grid-maintenance](https://github.com/prani354/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
@@ -842,6 +845,7 @@
 | [1975-maximum-matrix-sum](https://github.com/prani354/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prani354/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prani354/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2258-escape-the-spreading-fire](https://github.com/prani354/leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prani354/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/prani354/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/prani354/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
