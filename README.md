@@ -90,6 +90,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/prani354/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/prani354/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prani354/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/prani354/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/prani354/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/prani354/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prani354/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -804,6 +805,7 @@
 | [0684-redundant-connection](https://github.com/prani354/leetcode/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/prani354/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prani354/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/prani354/leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/prani354/leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/prani354/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prani354/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -823,6 +825,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/prani354/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/prani354/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/prani354/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0994-rotting-oranges](https://github.com/prani354/leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/prani354/leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/prani354/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/prani354/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
