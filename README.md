@@ -1,5 +1,7 @@
 # Leetcode
 
+# Problem with the solution are automatically created and pushed in this reposity by the Leethub extension once the code is submitted and passed in the Leetcode
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
