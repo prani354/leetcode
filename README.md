@@ -743,6 +743,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [0876-middle-of-the-linked-list](https://github.com/prani354/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/prani354/leetcode/tree/master/0917-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prani354/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prani354/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prani354/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prani354/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/prani354/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -775,6 +776,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/prani354/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/prani354/leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/prani354/leetcode/tree/master/1598-crawler-log-folder) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prani354/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/prani354/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prani354/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/prani354/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1084,6 +1086,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [0328-odd-even-linked-list](https://github.com/prani354/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/prani354/leetcode/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/prani354/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prani354/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Data Stream
 |  |
 | ------- |
