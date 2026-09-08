@@ -392,6 +392,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [0473-matchsticks-to-square](https://github.com/prani354/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/prani354/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/prani354/leetcode/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/prani354/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/prani354/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/prani354/leetcode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prani354/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -500,6 +501,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [0438-find-all-anagrams-in-a-string](https://github.com/prani354/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/prani354/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/prani354/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/prani354/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/prani354/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/prani354/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/prani354/leetcode/tree/master/0756-pyramid-transition-matrix) |
