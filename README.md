@@ -402,6 +402,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [0877-stone-game](https://github.com/prani354/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prani354/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1027-longest-arithmetic-subsequence](https://github.com/prani354/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
+| [1092-shortest-common-supersequence](https://github.com/prani354/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/prani354/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/prani354/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1143-longest-common-subsequence](https://github.com/prani354/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -519,6 +520,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [1006-vowel-spellchecker](https://github.com/prani354/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prani354/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prani354/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/prani354/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/prani354/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/prani354/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/prani354/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1208,5 +1210,6 @@ Problem with the solution are automatically created and pushed in this reposity 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/prani354/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/prani354/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/prani354/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
