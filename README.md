@@ -401,6 +401,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [1027-longest-arithmetic-subsequence](https://github.com/prani354/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/prani354/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/prani354/leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1143-longest-common-subsequence](https://github.com/prani354/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prani354/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/prani354/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/prani354/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -512,6 +513,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [1006-vowel-spellchecker](https://github.com/prani354/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prani354/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prani354/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/prani354/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/prani354/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/prani354/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1544-make-the-string-great](https://github.com/prani354/leetcode/tree/master/1544-make-the-string-great) |
@@ -1196,4 +1198,8 @@ Problem with the solution are automatically created and pushed in this reposity 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/prani354/leetcode/tree/master/0207-course-schedule) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/prani354/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
