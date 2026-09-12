@@ -1,19 +1,18 @@
-from collections import deque
+#from collections import deque
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        q = deque()
-        q.append([0,0])
-        visited = set()
+        max_amount = amount + 1
 
-        while q:
-            curr,level = q.popleft()
-            if curr == amount:
-                return level
+        dp = [max_amount] * (max_amount)
+        dp[0] = 0
 
+        for i in range(1,len(dp)):
             for coin in coins:
-                c = coin+curr
-                if c <= amount and c not in visited:
-                    q.append([c,level+1])
-                    visited.add(c)
 
-        return -1
+                if coin <= i:
+                    dp[i] = min(dp[i] , 1 + dp[i-coin])
+
+        if dp[amount] == max_amount: return -1
+
+        return dp[amount]
+
