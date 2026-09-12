@@ -67,6 +67,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [0474-ones-and-zeroes](https://github.com/prani354/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/prani354/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/prani354/leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/prani354/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/prani354/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prani354/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/prani354/leetcode/tree/master/0518-coin-change-ii) |
@@ -398,6 +399,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [0473-matchsticks-to-square](https://github.com/prani354/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/prani354/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/prani354/leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/prani354/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/prani354/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/prani354/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/prani354/leetcode/tree/master/0542-01-matrix) |
@@ -1041,6 +1043,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [0078-subsets](https://github.com/prani354/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prani354/leetcode/tree/master/0090-subsets-ii) |
 | [0473-matchsticks-to-square](https://github.com/prani354/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/prani354/leetcode/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/prani354/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/prani354/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Union Find
@@ -1200,6 +1203,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/prani354/leetcode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/prani354/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/prani354/leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -1220,4 +1224,8 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [0583-delete-operation-for-two-strings](https://github.com/prani354/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/prani354/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/prani354/leetcode/tree/master/1143-longest-common-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/prani354/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
