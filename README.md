@@ -272,6 +272,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [0242-valid-anagram](https://github.com/prani354/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/prani354/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/prani354/leetcode/tree/master/0355-design-twitter) |
+| [0387-first-unique-character-in-a-string](https://github.com/prani354/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/prani354/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prani354/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/prani354/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -425,6 +426,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prani354/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/prani354/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prani354/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/prani354/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3827-implement-router](https://github.com/prani354/leetcode/tree/master/3827-implement-router) |
@@ -507,6 +509,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prani354/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/prani354/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/prani354/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/prani354/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/prani354/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/prani354/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/prani354/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -647,6 +650,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | ------- |
 | [0169-majority-element](https://github.com/prani354/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/prani354/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/prani354/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/prani354/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/prani354/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/prani354/leetcode/tree/master/0767-reorganize-string) |
