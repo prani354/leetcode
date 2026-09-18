@@ -11,13 +11,11 @@ class Solution:
             else:
                 freq[ch] = 1
 
-        sorted_dict = sorted(freq.items(),key = lambda x:x[1] , reverse = True)
-        #print(sorted_dict)
-        l = ""
-        for ent in sorted_dict:
-            ch , num = ent
-            l += (num*ch)
+        sorted_freq_list = sorted(freq.items(),key = lambda x:x[1],reverse = True)
+        #print(sorted_freq_list)
+        res = ""
 
-        return l
+        for ch,val in sorted_freq_list:
+            res += (ch*val)
 
-        
+        return res
