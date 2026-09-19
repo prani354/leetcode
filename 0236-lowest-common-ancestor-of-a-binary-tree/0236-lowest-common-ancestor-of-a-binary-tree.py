@@ -16,5 +16,5 @@ class Solution:
 
         if left_tree is None: return right_tree
         elif right_tree is None: return left_tree
-        else: return root
+        else : return root
 
