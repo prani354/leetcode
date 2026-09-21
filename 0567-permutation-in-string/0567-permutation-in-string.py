@@ -16,7 +16,7 @@ class Solution:
 
         for i in range(n1,n2):
             s2_c[ord(s2[i]) - 97] += 1
-            s2_c[ord(s2[i-n1]) - ord('a')] -= 1
+            s2_c[ord(s2[i-n1]) - 97] -= 1
 
             if s1_c == s2_c: return True
 
