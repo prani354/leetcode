@@ -8,4 +8,3 @@ class Solution:
                 max_idx = i
 
         return max_idx
-
