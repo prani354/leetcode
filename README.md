@@ -125,6 +125,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prani354/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/prani354/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/prani354/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prani354/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/prani354/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/prani354/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prani354/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -220,6 +221,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prani354/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/prani354/leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/prani354/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prani354/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prani354/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/prani354/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/prani354/leetcode/tree/master/1927-sum-game) |
@@ -434,6 +436,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [0239-sliding-window-maximum](https://github.com/prani354/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/prani354/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prani354/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prani354/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prani354/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/prani354/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3827-implement-router](https://github.com/prani354/leetcode/tree/master/3827-implement-router) |
@@ -447,6 +450,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [1184-car-pooling](https://github.com/prani354/leetcode/tree/master/1184-car-pooling) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prani354/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/prani354/leetcode/tree/master/1642-water-bottles) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prani354/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/prani354/leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prani354/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prani354/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1107,6 +1111,7 @@ Problem with the solution are automatically created and pushed in this reposity 
 | [0394-decode-string](https://github.com/prani354/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/prani354/leetcode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prani354/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prani354/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prani354/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
