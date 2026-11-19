@@ -6,7 +6,7 @@
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head:
-            return None
+            return 
             
         slow = head
         fast = head
@@ -16,4 +16,3 @@ class Solution:
             fast = fast.next.next
 
         return slow
-        
