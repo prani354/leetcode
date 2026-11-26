@@ -11,6 +11,7 @@ class Solution:
             return False
 
         q = deque([(root,root.val)])
+        
         while q:
             node,value = q.popleft()
 
@@ -20,6 +21,6 @@ class Solution:
             if node.left:
                 q.append([node.left,value + node.left.val])
             if node.right:
-                q.append([node.right,value + node.right.val])
+                q.append([node.right,value+node.right.val])
 
         return False
