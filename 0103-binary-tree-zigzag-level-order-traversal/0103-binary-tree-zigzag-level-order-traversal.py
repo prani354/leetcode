@@ -12,30 +12,28 @@ class Solution:
             return []
 
         flag = True
-        q = deque()
-        q.append(root)
-        ans = []
-
+        q = deque([root])
+        res = []
         while q:
-            size = len(q)
-            res = []
-
-            for i in range(size):
+            n = len(q)
+            curr = []
+            
+            for _ in range(n):
                 node = q.popleft()
-                res.append(node.val)
+                curr.append(node.val)
 
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
 
-                
-
             if flag:
-                ans.append(res)
+                res.append(curr[:])
                 flag = False
             else:
-                ans.append(res[::-1])
+                res.append(curr[:][::-1])
                 flag = True
 
-        return ans
+        return res
+
+        
